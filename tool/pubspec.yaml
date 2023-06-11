@@ -1,5 +1,7 @@
 name: tool
 publish_to: none
+executables:
+  lox-test: test
 environment:
   sdk: '>2.11.0 <3.0.0'
 dependencies:

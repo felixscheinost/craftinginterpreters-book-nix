@@ -16,3 +16,5 @@ xcuserdata/
 # Dart stuff.
 /tool/.dart_tool/
 /tool/.packages
+
+.direnv
